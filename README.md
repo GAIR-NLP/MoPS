@@ -47,7 +47,7 @@ Existing sources of story premises are limited by a lack of diversity, uneven qu
 ### Installation
 
 ```bash
-git clone https://github.com/mantle2048/MoPS_backup
+git clone https://github.com/GAIR-NLP/MoPS
 poetry install
 ```
 
@@ -172,7 +172,7 @@ python mops/synthesize.py --module_dir ./data/modules --premise_dir ./data --mas
 
 We use the semantic **Breadth** and **Density** metrics proposed in the paper to evaluate diversity, and evaluate quality based on LLM in the three dimensions of **Fascination**, **Completeness**, and **Originality**.
 
-Please refer to files in [notebooks](https://github.com/mantle2048/MoPS_backup/tree/master/notebooks) for the implementation details of evaluation.
+Please refer to files in [notebooks](https://github.com/GAIR-NLP/MoPS/tree/master/notebooks) for the implementation details of evaluation.
 
 ### Stage 4 [Optional]: Use your favorite premise-based automatic story generation pipeline to create long stories
 
