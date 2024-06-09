@@ -48,6 +48,7 @@ Existing sources of story premises are limited by a lack of diversity, uneven qu
 
 ```bash
 git clone https://github.com/GAIR-NLP/MoPS
+pip install -r requirements.txt
 poetry install
 ```
 
