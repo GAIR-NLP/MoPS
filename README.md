@@ -12,7 +12,7 @@
 <p></p>
 
 [Yan Ma](https://mantle2048.github.io/)<sup>1,3,4</sup>,
-[Yu Qiao](https://github.com/foundation-multimodal-models](https://mmlab.siat.ac.cn/yuqiao))<sup>3</sup>,
+[Yu Qiao](https://mmlab.siat.ac.cn/yuqiao)<sup>3</sup>,
 [Pengfei Liu](http://pfliu.com/)<sup>2,3,4</sup>
 
 <sup>1</sup>Fudan University, <sup>2</sup>Shanghai Jiao Tong University, 
