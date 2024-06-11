@@ -27,7 +27,7 @@
 - [Overview](#-overview)
 - [Getting started](#-getting-started)
 - [Usage](#-usage)
-- [Citation](#-citation)
+- [Citation](#citation)
 
 ## 👀 Overview
 
