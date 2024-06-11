@@ -6,7 +6,7 @@
 </div>
 
 <h5 align="center"> 
-<a href='https://github.com/mantle2048'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+<a href='https://arxiv.org/abs/2406.05690'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 <a href='https://huggingface.co/datasets/ManTle/mops'><img src='https://img.shields.io/badge/🤗-Dataset-blue.svg'></a>
 
 <p></p>
