@@ -22,6 +22,13 @@
 </h5>
 </div>
 
+## ✒️ Contents
+- [Contents](#-contents)
+- [Overview](#-overview)
+- [Getting started](#-getting-started)
+- [Usage](#-usage)
+- [Citation](#-citation)
+
 ## 👀 Overview
 
 <h4> 
@@ -180,3 +187,17 @@ Please refer to files in [notebooks](https://github.com/GAIR-NLP/MoPS/tree/maste
 We use [Dramatron](https://github.com/google-deepmind/dramatron) and [RecurrentGPT](https://github.com/aiwaves-cn/RecurrentGPT) in our paper.
 
 If you are looking for more story generation work, we recommend you refer to [Awesome-Story-Generation](https://github.com/yingpengma/Awesome-Story-Generation)
+
+
+## Citation
+
+```latex
+@misc{ma2024mops,
+      title={MoPS: Modular Story Premise Synthesis for Open-Ended Automatic Story Generation}, 
+      author={Yan Ma and Yu Qiao and Pengfei Liu},
+      year={2024},
+      eprint={2406.05690},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
