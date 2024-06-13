@@ -89,9 +89,16 @@ OPENAI_MODEL="gpt-3.5-turbo-1106"
 > Scripts are generated using [Dramatron](https://github.com/google-deepmind/dramatron), and novels are generated using [RecurrentGPT](https://github.com/aiwaves-cn/RecurrentGPT).
 
 #### 4. Huggingface dataset
-> We created a huggingface dataset including three versions of the MoPS dataset: `complete`, `moderate`, and `curated`, with each entry containing a premise and the extented stories.
+> We created a [huggingface dataset](https://huggingface.co/datasets/ManTle/mops) including three versions of the MoPS dataset: `complete`, `moderate`, and `curated`, with each entry containing a premise and the extented stories.
 
-> Download on [Huggingface](https://huggingface.co/datasets/ManTle/mops)
+```python
+from datasets import load_dataset
+
+dataset=load_dataset("ManTle/mops")
+
+print(dataset)
+```
+
 
 ## 🎯 Usage
 
