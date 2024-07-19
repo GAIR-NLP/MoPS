@@ -202,9 +202,10 @@ If you are looking for more story generation work, we recommend you refer to [Aw
 @misc{ma2024mops,
       title={MoPS: Modular Story Premise Synthesis for Open-Ended Automatic Story Generation}, 
       author={Yan Ma and Yu Qiao and Pengfei Liu},
+      booktitle={Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 3: System Demonstrations)},
+      address={Bangkok, Thailand},
+      publisher={Association for Computational Linguistics},
       year={2024},
-      eprint={2406.05690},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+      url={http://arxiv.org/abs/2406.05690}
 }
 ```
